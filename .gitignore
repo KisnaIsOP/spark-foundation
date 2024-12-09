@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+*.env
+*.jpg
+*.png
+*.gif
+*.svg
+*.ico
+*.map
